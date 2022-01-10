@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+Fourth-year student at [Tokyo Institute of Technology](https://www.titech.ac.jp/english), [Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html)
 
-You can use the [editor on GitHub](https://github.com/loem-ms/loem-ms.githup.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Email: mengsay.loem[at]nlp.c.titech.ac.jp
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Githup: [loem-ms](https://github.com/loem-ms)
 
-### Markdown
+# Research Interest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Neural language model
 
-```markdown
-Syntax highlighted code block
+Linguistic knowledge acquisition
 
-# Header 1
-## Header 2
-### Header 3
+# Education
+- April 2020 - March 2022 &emsp; Bachelor of Engineering, Tokyo Institute of Technology
+- April 2017 - March 2020 &emsp; Associate of Engineering, National Institute of Technology, Kagoshima College
 
-- Bulleted
-- List
+# Work Experience
+- Dec. 2021 - &emsp; Research Assistant at Tokyo Institute of Technology
+- Nov. 2020 - &emsp; Technical Staff at Novitas, Inc. 
 
-1. Numbered
-2. List
+# Awards and Participations
+- Japanese Government (MEXT) Scholarship (2020.4 - 2022.3) 
+- The Institute of Electronics, Information and Communication Engineers (IEICE) Kyushu Section Award for Academic Excellence (Japan, 2020)
+- President's Award for Best Graduation Research in Department of Information Engineering at Kagoshima College of Technology (Japan, 2020)
+- Japanese Government (MEXT) Scholarship: College of Technology (2016.4 - 2020.3) 
+- The 10th Regional Congress Search for SEAMEO Young Scientists ([SSYS](http://www.recsam.edu.my/)) Outstanding Award for the presentation of Exhibit (Malaysia, 2016)
+- 56th International Mathematical Olympiad Participation (Thailand, 2015)
 
-**Bold** and _Italic_ and `Code` text
+# Publications
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loem-ms/loem-ms.githup.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
