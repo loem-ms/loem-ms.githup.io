@@ -4,6 +4,8 @@ Email: mengsay.loem[at]nlp.c.titech.ac.jp
 
 Githup: [loem-ms](https://github.com/loem-ms)
 
+CV: [Updated 2022-02](./resume-2022-02-18.pdf)
+
 # Research Interest
 
 Neural language model
