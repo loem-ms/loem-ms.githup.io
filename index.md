@@ -7,14 +7,16 @@ Githup: [loem-ms](https://github.com/loem-ms)
 
 # Research Interest
 
-Neural language modeling
 Text generation
+
+Neural language modeling
+
 Linguistic knowledge acquisition
 
 # Education
-- April 2022 - Present &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, Tokyo Institute of Technology (Japan)
-- April 2020 - March 2022 &emsp;Bachelor of Engineering, Tokyo Institute of Technology (Japan)
-- April 2017 - March 2020 &emsp;Associate of Engineering, National Institute of Technology, Kagoshima College (Japan)
+- April 2022 - Present &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, TokyoTech (Japan)
+- April 2020 - March 2022 &emsp;Bachelor of Engineering, TokyoTech (Japan)
+- April 2017 - March 2020 &emsp;Associate of Engineering, NIT, Kagoshima College (Japan)
 
 # Work Experience
 - Dec. 2021 - &emsp; Research Assistant at Tokyo Institute of Technology
