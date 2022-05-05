@@ -7,12 +7,12 @@ Githup: [loem-ms](https://github.com/loem-ms)
 
 # Research Interest
 
-Neural language model
-
+Neural language modeling
+Text generation
 Linguistic knowledge acquisition
 
 # Education
-- April 2022 - Present &emsp;&emsp;&emsp;Master of Engineering, Tokyo Institute of Technology (Japan)
+- April 2022 - Present &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, Tokyo Institute of Technology (Japan)
 - April 2020 - March 2022 &emsp;Bachelor of Engineering, Tokyo Institute of Technology (Japan)
 - April 2017 - March 2020 &emsp;Associate of Engineering, National Institute of Technology, Kagoshima College (Japan)
 
@@ -30,6 +30,6 @@ Linguistic knowledge acquisition
 * 56th International Mathematical Olympiad Participation (Thailand, 2015)
 
 # Publications
-* <u>Loem Mengsay</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. 抽出型要約と言い換えによる生成型要約の訓練データ拡張. 言語処理学会第28回年次大会 (NLP2022), pp. 1996-2001, 2022年3月.
+* <u>LOEM Mengsay</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. 抽出型要約と言い換えによる生成型要約の訓練データ拡張. 言語処理学会第28回年次大会 (NLP2022), pp. 1996-2001, 2022年3月.
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase:Efficient Data Augmentation for Abstractive Summarization. [arXiv](https://arxiv.org/abs/2201.05313), 2021.
 * <u>Mengsay Loem</u>, David Taingngin, Chan Oeurn Chey, Meak Kamerane. A Design of Low Cost and High Performance Speed Detector Combining Digital Camera and Photo-resistive Sensor to Contribute to Traffic Accidents Reduction in Cambodia. Youth Innovation for Sustainability, SEAMEO Recsam, 2016.  
