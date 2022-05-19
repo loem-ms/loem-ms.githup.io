@@ -19,7 +19,6 @@ Linguistic knowledge acquisition
 - April 2017 - March 2020 &emsp;Associate of Engineering, NIT, Kagoshima College (Japan)
 
 # Work Experience
-- Jun. 2022 - &emsp; Researcher at National Institute of Information and Communications Technology (NICT)
 - Dec. 2021 - &emsp; Research Assistant at Tokyo Institute of Technology
 - Nov. 2020 - &emsp; Technical Staff at Novitas, Inc. 
 
