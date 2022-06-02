@@ -4,6 +4,7 @@ Email: mengsay.loem[at]nlp.c.titech.ac.jp
 
 Githup: [loem-ms](https://github.com/loem-ms)
 
+Resume: [(Updated: June 2022)](https://github.com/loem-ms/loem-ms.github.io/blob/gh-pages/Resume_june_22.pdf)
 
 # Research Interest
 
