@@ -33,6 +33,7 @@ Linguistic knowledge acquisition
 * 56th International Mathematical Olympiad Participation (Thailand, 2015)
 
 # Publications
-* <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase:Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL:SRW), Seattle, July 2022. [[arXiv](https://arxiv.org/abs/2201.05313)]
+* <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. [arXiv](https://arxiv.org/abs/2207.13354), 2022.
+* <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase:Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL:SRW), Seattle, July 2022. [[paper](https://aclanthology.org/2022.naacl-srw.3/)]
 * <u>LOEM Mengsay</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. 抽出型要約と言い換えによる生成型要約の訓練データ拡張. 言語処理学会第28回年次大会 (NLP2022), pp. 1996-2001, 2022年3月.
 * <u>Mengsay Loem</u>, David Taingngin, Chan Oeurn Chey, Meak Kamerane. A Design of Low Cost and High Performance Speed Detector Combining Digital Camera and Photo-resistive Sensor to Contribute to Traffic Accidents Reduction in Cambodia. Youth Innovation for Sustainability, SEAMEO Recsam, 2016.  
