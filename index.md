@@ -2,7 +2,7 @@ Master's student at [Tokyo Institute of Technology](https://www.titech.ac.jp/eng
 
 Email: mengsay.loem[at]nlp.c.titech.ac.jp
 
-Githup: [loem-ms](https://github.com/loem-ms)
+Github: [loem-ms](https://github.com/loem-ms)
 
 Resume: [(Updated: Oct. 2022)](https://github.com/loem-ms/loem-ms.github.io/blob/gh-pages/Resume-full-2022-Oct.pdf)
 
@@ -15,22 +15,22 @@ Neural language modeling
 Linguistic knowledge acquisition
 
 # Education
-- April 2022 - Present &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, TokyoTech (Japan)
-- April 2020 - March 2022 &emsp;Bachelor of Engineering, TokyoTech (Japan)
-- April 2017 - March 2020 &emsp;Associate of Engineering, NIT, Kagoshima College (Japan)
+- April 2022 - Present &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, TokyoTech
+- April 2020 - March 2022 &emsp;Bachelor of Engineering (Computer Science), TokyoTech
+- April 2017 - March 2020 &emsp;Associate of Engineering (Information Engineering), NIT, Kagoshima College
 
 # Work Experience
-- Oct. 2022 - &emsp; Teaching Assistant (Exercises in Fundamentals of AI) at Tokyo Institute of Technology
-- Dec. 2021 - &emsp; Research Assistant at Tokyo Institute of Technology
-- Nov. 2020 - &emsp; Technical Staff at Novitas, Inc. 
+- Oct. 2022 - Present&emsp; Teaching Assistant (Exercises in Fundamentals of AI) at TokyoTech
+- Dec. 2021 - Present&emsp; Research Assistant at TokyoTech
+- Nov. 2020 - Present&emsp; Technical Staff at Novitas, Inc. 
 
 # Awards and Participations
 * Sato Yo International Scholarship (2022.4 - 2024.3)
 * Japanese Government (MEXT) Scholarship (2020.4 - 2022.3) 
-* The Institute of Electronics, Information and Communication Engineers (IEICE) Kyushu Section Award for Academic Excellence (Japan, 2020)
-* President's Award for Best Graduation Research in Department of Information Engineering at Kagoshima College of Technology (Japan, 2020)
+* IEICE Kyushu Section Award for Academic Excellence (Japan, 2020)
+* President's Award for Best Graduation Research, Kagoshima College of Technology (Japan, 2020)
 * Japanese Government (MEXT) Scholarship: College of Technology (2016.4 - 2020.3) 
-* The 10th Regional Congress Search for SEAMEO Young Scientists ([SSYS](http://www.recsam.edu.my/)) Outstanding Award for the presentation of Exhibit (Malaysia, 2016)
+* Outstanding Award for the presentation of Exhibit in The 10th Regional Congress Search for SEAMEO Young Scientists (Malaysia, 2016)
 * 56th International Mathematical Olympiad Participation (Thailand, 2015)
 
 # Publications
