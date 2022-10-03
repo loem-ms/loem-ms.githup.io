@@ -4,7 +4,7 @@ Email: mengsay.loem[at]nlp.c.titech.ac.jp
 
 Githup: [loem-ms](https://github.com/loem-ms)
 
-Resume: [(Updated: June 2022)](https://github.com/loem-ms/loem-ms.github.io/blob/gh-pages/Resume_june_22.pdf)
+Resume: [(Updated: Oct. 2022)](https://github.com/loem-ms/loem-ms.github.io/blob/gh-pages/Resume-full-2022-Oct.pdf)
 
 # Research Interest
 
@@ -20,6 +20,7 @@ Linguistic knowledge acquisition
 - April 2017 - March 2020 &emsp;Associate of Engineering, NIT, Kagoshima College (Japan)
 
 # Work Experience
+- Oct. 2022 - &emsp; Teaching Assistant (Exercises in Fundamentals of AI) at Tokyo Institute of Technology
 - Dec. 2021 - &emsp; Research Assistant at Tokyo Institute of Technology
 - Nov. 2020 - &emsp; Technical Staff at Novitas, Inc. 
 
