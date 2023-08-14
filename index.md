@@ -4,7 +4,6 @@ Email: mengsay.loem[at]nlp.c.titech.ac.jp
 
 Github: [loem-ms](https://github.com/loem-ms)
 
-Resume: [(Updated: Oct. 2022)](./Resume_full_2022_Oct.pdf)
 
 # Research Interest
 
@@ -17,7 +16,7 @@ Large-scale Language Models; Text generation; Neural language modeling; Linguist
 
 # Work Experience
 - Dec. 2021 - Present&emsp; Research Assistant at TokyoTech
-- Nov. 2020 - Present&emsp; Technical Staff at Novitas, Inc. 
+- Nov. 2020 - Aug. 2023&emsp; Part-time at Novitas, Inc. 
 - Apr. 2023 - May 2023&emsp; Internship at Sansan, Inc.
 - Oct. 2022 - Dec. 2022&emsp; Teaching Assistant (Exercises in Fundamentals of AI) at TokyoTech
 
@@ -37,7 +36,7 @@ Large-scale Language Models; Text generation; Neural language modeling; Linguist
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki, ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization, Journal of Natural Language Processing, 2023, Volume 30, Issue 2, Pages 489-506. [[paper](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_489/_article/-char/en)]
 
 ### (Refereed) International Conference and Workshop Papers
-* <u>Mengsay Loem</u>, Masahiro Kaneko, Sho Takase, and Naoaki Okazaki. Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA), pages (to appear), Toronto, Canada, July 2023.
+* <u>Mengsay Loem</u>, Masahiro Kaneko, Sho Takase, and Naoaki Okazaki. 2023. Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), pages 205–219, Toronto, Canada. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.bea-1.18/)]
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase:Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL:SRW), Seattle, July 2022. [[paper](https://aclanthology.org/2022.naacl-srw.3/)]
 * <u>Mengsay Loem</u>, David Taingngin, Chan Oeurn Chey, Meak Kamerane. A Design of Low Cost and High Performance Speed Detector Combining Digital Camera and Photo-resistive Sensor to Contribute to Traffic Accidents Reduction in Cambodia. Youth Innovation for Sustainability, SEAMEO Recsam, 2016.
 
