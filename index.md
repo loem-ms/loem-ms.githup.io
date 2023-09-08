@@ -1,6 +1,6 @@
 Master's student at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) ([Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html))
 
-Email: mengsay.loem[at]nlp.c.titech.ac.jp
+Email: mengsay.loem[aatt]nlp.c.titech.ac.jp / mengsaylms[aatt]gmail[ddott]com
 
 Github: [loem-ms](https://github.com/loem-ms)
 
