@@ -7,18 +7,18 @@ Github: [loem-ms](https://github.com/loem-ms)
 
 # Research Interest
 
-Large-scale Language Models; Text generation; Neural language modeling; Linguistic knowledge acquisition
+Large Language Model; Text generation; Linguistic knowledge acquisition
 
 # Education
-- April 2022 - Present &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, TokyoTech
+- April 2022 - _Present_ &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, TokyoTech
 - April 2020 - March 2022 &emsp;Bachelor of Engineering (Computer Science), TokyoTech
-- April 2017 - March 2020 &emsp;Associate of Engineering (Information Engineering), NIT, Kagoshima College
+- April 2017 - March 2020 &emsp; Associate of Engineering (Information Engineering), NIT, Kagoshima College
 
 # Work Experience
-- Dec. 2021 - Present&emsp; Research Assistant at TokyoTech
-- Nov. 2020 - Aug. 2023&emsp; Part-time at Novitas, Inc. 
-- Apr. 2023 - May 2023&emsp; Internship at Sansan, Inc.
-- Oct. 2022 - Dec. 2022&emsp; Teaching Assistant (Exercises in Fundamentals of AI) at TokyoTech
+- December 2021 - _Present_&emsp;Research Assistant at TokyoTech
+- November 2020 - August 2023&emsp;Part-time at Novitas, Inc. 
+- April 2023 - May 2023&emsp;Internship at Sansan, Inc.
+- October 2022 - December 2022&emsp;Teaching Assistant (Exercises in Fundamentals of AI) at TokyoTech
 
 # Awards and Participations
 * Sato Yo International Scholarship (2022.4 - 2024.3)
@@ -39,10 +39,6 @@ Large-scale Language Models; Text generation; Neural language modeling; Linguist
 * <u>Mengsay Loem</u>, Masahiro Kaneko, Sho Takase, and Naoaki Okazaki. 2023. Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), pages 205–219, Toronto, Canada. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.bea-1.18/)]
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase:Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL:SRW), Seattle, July 2022. [[paper](https://aclanthology.org/2022.naacl-srw.3/)]
 * <u>Mengsay Loem</u>, David Taingngin, Chan Oeurn Chey, Meak Kamerane. A Design of Low Cost and High Performance Speed Detector Combining Digital Camera and Photo-resistive Sensor to Contribute to Traffic Accidents Reduction in Cambodia. Youth Innovation for Sustainability, SEAMEO Recsam, 2016.
-
-### (Non-refereed) Conference
-* <u>Mengsay Loem</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. マルチヘッドニューラル N-gram による自己注意機構の代替. 言語処理学会第29回年次大会 (NLP2023), pp. 2094-2099, 2023年3月.
-* <u>Mengsay Loem</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. 抽出型要約と言い換えによる生成型要約の訓練データ拡張. 言語処理学会第28回年次大会 (NLP2022), pp. 1996-2001, 2022年3月.
 
 ### Pre-print
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. [arXiv](https://arxiv.org/abs/2207.13354), 2022.
