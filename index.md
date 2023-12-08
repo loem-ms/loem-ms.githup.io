@@ -37,11 +37,12 @@ Large Language Model; Text generation; Linguistic knowledge acquisition
 
 ### (Refereed) International Conference and Workshop Papers
 * <u>Mengsay Loem</u>, Masahiro Kaneko, Sho Takase, and Naoaki Okazaki. 2023. Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), pages 205–219, Toronto, Canada. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.bea-1.18/)]
-* <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase:Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL:SRW), Seattle, July 2022. [[paper](https://aclanthology.org/2022.naacl-srw.3/)]
-* <u>Mengsay Loem</u>, David Taingngin, Chan Oeurn Chey, Meak Kamerane. A Design of Low Cost and High Performance Speed Detector Combining Digital Camera and Photo-resistive Sensor to Contribute to Traffic Accidents Reduction in Cambodia. Youth Innovation for Sustainability, SEAMEO Recsam, 2016.
+* <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL:SRW), Seattle, July 2022. [[paper](https://aclanthology.org/2022.naacl-srw.3/)]
+* <u>Mengsay Loem</u>, David Taingngin, Chan Oeurn Chey, Meak Kamerane. A Design of Low Cost and High-Performance Speed Detector Combining Digital Camera and Photo-resistive Sensor to Contribute to Traffic Accidents Reduction in Cambodia. Youth Innovation for Sustainability, SEAMEO Recsam, 2016.
 
 ### Pre-print
-* <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. [arXiv](https://arxiv.org/abs/2207.13354), 2022.
+* <u>Mengsay Loem</u>, Masahiro Kaneko, Naoaki Okazaki. SAIE Framework: Support Alone Isn’t Enough - Advancing LLM Training with Adversarial Remarks. arXiv, 2023. [[paper](https://arxiv.org/abs/2311.08107)]
+* <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. arXiv, 2022. [[paper](https://arxiv.org/abs/2207.13354)]
 
 ### Talks
 * Mengsay Loem. Beyond the Symbols: A 30-minute Overview of NLP. In Technical Seminar of Cambodian MEXT IT Team, June 2023. [[slide](https://www.slideshare.net/MENGSAYLOEM1/beyond-the-symbols-a-30minute-overview-of-nlp)]
