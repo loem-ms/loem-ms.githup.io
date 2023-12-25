@@ -15,10 +15,11 @@ Large Language Model; Text generation; Linguistic knowledge acquisition
 - April 2017 - March 2020 &emsp; Associate of Engineering (Information Engineering), NIT, Kagoshima College
 
 # Work Experience
-- December 2021 - _Present_&emsp;Research Assistant at TokyoTech
-- November 2020 - August 2023&emsp;Part-time at Novitas, Inc. 
-- April 2023 - May 2023&emsp;Internship at Sansan, Inc.
-- October 2022 - December 2022&emsp;Teaching Assistant (Exercises in Fundamentals of AI) at TokyoTech
+- December 2021 - _Present_&emsp; Research Assistant at TokyoTech
+- January 2023 - December 2023&emsp; Lead of IT Committee of Cambodian Students' Association in Japan (Volunteer)
+- November 2020 - August 2023&emsp; Part-time at Novitas, Inc. 
+- April 2023 - May 2023&emsp; Internship at Sansan, Inc.
+- October 2022 - December 2022&emsp; Teaching Assistant (Exercises in Fundamentals of AI) at TokyoTech
 
 # Awards and Participations
 * Sato Yo International Scholarship (2022.4 - 2024.3)
