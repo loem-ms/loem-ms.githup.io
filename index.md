@@ -1,12 +1,12 @@
-Master's student at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) ([Okazaki Lab](https://www.nlp.c.titech.ac.jp/index.en.html))
+Master's student at [Okazaki Laboratory](https://www.nlp.c.titech.ac.jp/index.en.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english)
 
-Email: mengsay.loem[aatt]nlp.c.titech.ac.jp / mengsaylms[aatt]gmail[ddott]com
+Email: mengsay.loem[at]nlp.c.titech.ac.jp&emsp;mengsaylms[at]gmail.com
 
-Github: [loem-ms](https://github.com/loem-ms)
+GitHub: [loem-ms](https://github.com/loem-ms)
 
 
 # Research Interest
-Large Language Model (LLM), Text generation
+Large Language Model (LLM), Text generation, Educational Application
 
 # Education
 - Apr 2022 - Mar 2024 &emsp; Master of Engineering, Tokyo Institute of Technology
@@ -25,11 +25,11 @@ Large Language Model (LLM), Text generation
 - Oct 2022 - Dec 2022&emsp; Teaching Assistant, Tokyo Institute of Technology
 
 # Awards and Participations
-* Sato Yo International Scholarship (2022.4 - 2024.3)
-* Japanese Government (MEXT) Scholarship (2020.4 - 2022.3) 
+* Sato Yo International Scholarship (Apr 2022 - Mar 2024)
+* Japanese Government (MEXT) Scholarship (Apr 2020 - Mar 2022) 
 * IEICE Kyushu Section Award for Academic Excellence (Japan, 2020)
 * President's Award for Best Graduation Project, Kagoshima College of Technology (Japan, 2020)
-* Japanese Government (MEXT) Scholarship: College of Technology (2016.4 - 2020.3) 
+* Japanese Government (MEXT) Scholarship: College of Technology (Apr 2016 - Mar 2020) 
 * Outstanding Award for the presentation of Exhibit in The 10th Regional Congress Search for SEAMEO Young Scientists (Malaysia, 2016)
 * 56th International Mathematical Olympiad Participation (Thailand, 2015)
 * Gold Medal in Cambodian National Mathematical Olympiad (Cambodia, 2015)
@@ -48,7 +48,17 @@ Large Language Model (LLM), Text generation
 * <u>Mengsay Loem</u>, Masahiro Kaneko, Naoaki Okazaki. SAIE Framework: Support Alone Isn’t Enough - Advancing LLM Training with Adversarial Remarks. arXiv, 2023. [[paper](https://arxiv.org/abs/2311.08107)]
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. arXiv, 2022. [[paper](https://arxiv.org/abs/2207.13354)]
 
-### Talks
-* Mengsay Loem. Beyond the Symbols: A 30-minute Overview of NLP. In Technical Seminar of Cambodian MEXT IT Team, June 2023. [[slide](https://www.slideshare.net/MENGSAYLOEM1/beyond-the-symbols-a-30minute-overview-of-nlp)]
-* Mengsay Loem. Deep Learning based Natural Language Processing. In Natural Language Processing Webinar at Forum for Pushing the Boundary, December 2021. [[slide](https://drive.google.com/file/d/1GX9-XcOJOy-r5hzif5UkmXulaD6GrQk-/view?usp=sharing)]
+### Domestic Conference and Symposium (in Japanese)
+* <u>Mengsay Loem</u>, 金子 正弘, 岡崎 直観. 敵対的発言を取り入れた議論による言語モデルの学習強化と推論力の向上. 言語処理学会第30回年次大会 (NLP2024), B10-6, pp. 2750–2755, 2024年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-6.pdf)
+* 大井 聖也, 金子 正弘, 小池 隆斗, <u>Mengsay Loem</u>, 岡崎 直観. 大規模言語モデルにおける評価バイアスの尤度に基づく緩和. 言語処理学会第30回年次大会 (NLP2024), A11-4, pp. 3021–3026, 2024年3月.  [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A11-4.pdf)
+* 岡崎 直観, 服部 翔, 平井 翔太, 飯田 大貴, 大井 聖也, 藤井 一喜, 中村 泰士, <u>Mengsay Loem</u>, 横田 理央, 水木 栄. Swallowコーパス: 日本語大規模ウェブコーパス. 言語処理学会第30回年次大会 (NLP2024), A6-1, pp. 1498–1503, 2024年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A6-1.pdf)
+* 水木 栄, 飯田 大貴, 藤井 一喜, 中村 泰士, <u>Mengsay Loem</u>, 大井 聖也, 服部 翔, 平井 翔太, 横田 理央, 岡崎 直観. 大規模言語モデルの日本語能力の効率的な強化: 継続事前学習における語彙拡張と対訳コーパスの活用. 言語処理学会第30回年次大会 (NLP2024), A6-4, pp. 1514–1519, 2024年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A6-4.pdf)
+* 藤井 一喜, 中村 泰士, <u>Mengsay Loem</u>, 飯田 大貴, 大井 聖也, 服部 翔, 平井 翔太, 水木 栄, 横田 理央, 岡崎 直観. 継続事前学習による日本語に強い大規模言語モデルの構築. 言語処理学会第30回年次大会 (NLP2024), A8-5, pp. 2102–2107, 2024年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A8-5.pdf)
+* <u>Mengsay Loem</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. マルチヘッドニューラルN-gramによる自己注意機構の代替. 言語処理学会第29回年次大会 (NLP2023), A9-1, pp. 2094–2099, 2023年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/A9-1.pdf)
+* <u>Mengsay Loem</u>, 高瀬 翔, 岡崎 直観. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. 第17回NLP若手の会シンポジウム, P5-07, 2022年8月.
+* <u>Mengsay Loem</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. 抽出型要約と言い換えによる生成型要約の訓練データ拡張. 言語処理学会第28回年次大会 (NLP2022), pp. 1996–2001, 2022年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D8-3.pdf)
 
+# Talks
+* Showcasing Experiences in a Master’s Education in Computer Science. Panel Discussion at TechTalk Throwdown by [Cambodian Student Association in the United States of America](https://www.csainusa.com). January 2024. [[summary]](https://speakerdeck.com/mengsay/showcasing-experiences-in-a-masters-education-in-computer-science)
+* Beyond the Symbols: A 30-minute Overview of NLP. Invited Talk at Technical Seminar by Cambodian MEXT Scholar IT Team. June 2023. [[slide](https://www.slideshare.net/MENGSAYLOEM1/beyond-the-symbols-a-30minute-overview-of-nlp)]
+* Deep Learning based Natural Language Processing. Invited Talk at Natural Language Processing Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), December 2021. [[slide](https://drive.google.com/file/d/1GX9-XcOJOy-r5hzif5UkmXulaD6GrQk-/view?usp=sharing)]
