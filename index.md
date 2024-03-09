@@ -6,20 +6,23 @@ Github: [loem-ms](https://github.com/loem-ms)
 
 
 # Research Interest
-
-Large Language Model; Text generation; Linguistic knowledge acquisition
+Large Language Model (LLM), Text generation
 
 # Education
-- April 2022 - _Present_ &emsp;&emsp;&emsp;Master of Engineering, Major in Artificial Intelligence, TokyoTech
-- April 2020 - March 2022 &emsp;Bachelor of Engineering (Computer Science), TokyoTech
-- April 2017 - March 2020 &emsp; Associate of Engineering (Information Engineering), NIT, Kagoshima College
+- Apr 2022 - Mar 2024 &emsp; Master of Engineering, Tokyo Institute of Technology
+  - Major: Artificial Intelligence
+  - Minor: Cyber Security
+- Apr 2020 - Mar 2022 &emsp; Bachelor of Engineering, Tokyo Institute of Technology
+  - Major: Computer Science
+- Apr 2017 - Mar 2020 &emsp; Associate of Engineering, National Institute of Technology, Kagoshima College
+  - Major: Information Engineering
 
 # Work Experience
-- December 2021 - _Present_&emsp; Research Assistant at TokyoTech
-- January 2023 - December 2023&emsp; Lead of IT Committee of Cambodian Students' Association in Japan (Volunteer)
-- November 2020 - August 2023&emsp; Part-time at Novitas, Inc. 
-- April 2023 - May 2023&emsp; Internship at Sansan, Inc.
-- October 2022 - December 2022&emsp; Teaching Assistant (Exercises in Fundamentals of AI) at TokyoTech
+- Dec 2021 - Mar 2024&emsp; Research Assistant, Tokyo Institute of Technology
+- Jan 2023 - Dec 2023&emsp; Lead of IT Committee, Cambodian Students' Association in Japan
+- Nov 2020 - Aug 2023&emsp; Part-time Technical Staff, Novitas, Inc. 
+- Apr 2023 - May 2023&emsp; Internship, Sansan Inc.
+- Oct 2022 - Dec 2022&emsp; Teaching Assistant, Tokyo Institute of Technology
 
 # Awards and Participations
 * Sato Yo International Scholarship (2022.4 - 2024.3)
