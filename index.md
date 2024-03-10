@@ -1,5 +1,5 @@
-#### Master's student at [Okazaki Laboratory](https://www.nlp.c.titech.ac.jp/index.en.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english)
-#### Member of [TokyoTech-LLM](https://tokyotech-llm.github.io/)
+* Master's student at [Okazaki Laboratory](https://www.nlp.c.titech.ac.jp/index.en.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english)
+* Member of [TokyoTech-LLM](https://tokyotech-llm.github.io/)
 
   [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/loem-ms)
   [![Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=X)](https://twitter.com/loem_ms)
