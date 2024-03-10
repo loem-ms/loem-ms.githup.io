@@ -19,21 +19,11 @@ Large Language Model, Text generation, Educational Application
 
 # Work Experience
 - Dec 2021 - Mar 2024&emsp; Research Assistant, Tokyo Institute of Technology
-- Jan 2023 - Dec 2023&emsp; Lead of IT Committee, Cambodian Students' Association in Japan
+- Jan 2023 - Dec 2023&emsp; Chair of IT Committee, Cambodian Students' Association in Japan
 - Nov 2020 - Aug 2023&emsp; Part-time Technical Staff, Novitas, Inc. 
 - Apr 2023 - May 2023&emsp; Internship, Sansan Inc.
 - Oct 2022 - Dec 2022&emsp; Teaching Assistant, Tokyo Institute of Technology
-
-# Awards and Participations
-* Sato Yo International Scholarship (Apr 2022 - Mar 2024)
-* Japanese Government (MEXT) Scholarship (Apr 2020 - Mar 2022) 
-* IEICE Kyushu Section Award for Academic Excellence (Japan, 2020)
-* President's Award for Best Graduation Project, Kagoshima College of Technology (Japan, 2020)
-* Japanese Government (MEXT) Scholarship: College of Technology (Apr 2016 - Mar 2020) 
-* Outstanding Award for the presentation of Exhibit in The 10th Regional Congress Search for SEAMEO Young Scientists (Malaysia, 2016)
-* 56th International Mathematical Olympiad Participation (Thailand, 2015)
-* Gold Medal in Cambodian National Mathematical Olympiad (Cambodia, 2015)
-
+  
 # Publications
 
 ### Journal
@@ -62,3 +52,14 @@ Large Language Model, Text generation, Educational Application
 * Showcasing Experiences in a Master’s Education in Computer Science. Panel Discussion at TechTalk Throwdown by [Cambodian Student Association in the United States of America](https://www.csainusa.com). January 2024. [[summary]](https://speakerdeck.com/mengsay/showcasing-experiences-in-a-masters-education-in-computer-science)
 * Beyond the Symbols: A 30-minute Overview of NLP. Invited Talk at Technical Seminar by Cambodian MEXT Scholar IT Team. June 2023. [[slide](https://www.slideshare.net/MENGSAYLOEM1/beyond-the-symbols-a-30minute-overview-of-nlp)]
 * Deep Learning based Natural Language Processing. Invited Talk at Natural Language Processing Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), December 2021. [[slide](https://drive.google.com/file/d/1GX9-XcOJOy-r5hzif5UkmXulaD6GrQk-/view?usp=sharing)]
+
+# Awards and Participations
+* Sato Yo International Scholarship (Apr 2022 - Mar 2024)
+* Japanese Government (MEXT) Scholarship (Apr 2020 - Mar 2022) 
+* IEICE Kyushu Section Award for Academic Excellence (Japan, 2020)
+* President's Award for Best Graduation Project, Kagoshima College of Technology (Japan, 2020)
+* Japanese Government (MEXT) Scholarship: College of Technology (Apr 2016 - Mar 2020) 
+* Outstanding Award for the presentation of Exhibit in The 10th Regional Congress Search for SEAMEO Young Scientists (Malaysia, 2016)
+* 56th International Mathematical Olympiad Participation (Thailand, 2015)
+* Gold Medal in Cambodian National Mathematical Olympiad (Cambodia, 2015)
+
