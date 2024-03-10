@@ -1,12 +1,12 @@
-Master's student at [Okazaki Laboratory](https://www.nlp.c.titech.ac.jp/index.en.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english)
+#### Master's student at [Okazaki Laboratory](https://www.nlp.c.titech.ac.jp/index.en.html), [Tokyo Institute of Technology](https://www.titech.ac.jp/english)
+#### Member of [TokyoTech-LLM](https://tokyotech-llm.github.io/)
 
-Email: mengsay.loem[at]nlp.c.titech.ac.jp&emsp;mengsaylms[at]gmail.com
-
-GitHub: [loem-ms](https://github.com/loem-ms)
-
+  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/loem-ms)
+  [![Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=X)](https://twitter.com/loem_ms)
+  [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:mengsaylms@gmail.com)
 
 # Research Interest
-Large Language Model (LLM), Text generation, Educational Application
+Large Language Model, Text generation, Educational Application
 
 # Education
 - Apr 2022 - Mar 2024 &emsp; Master of Engineering, Tokyo Institute of Technology
