@@ -54,6 +54,8 @@ Large Language Model, Text generation, Educational Application
 * Deep Learning based Natural Language Processing. Invited Talk at Natural Language Processing Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), December 2021. [[slide](https://drive.google.com/file/d/1GX9-XcOJOy-r5hzif5UkmXulaD6GrQk-/view?usp=sharing)]
 
 # Awards and Participations
+* The 30th Annual Meeting of the Association for Natural Language Processing Young Scientist Incentive Award (Japan, 2024)
+* The 30th Annual Meeting of the Association for Natural Language Processing Best Paper Award (Japan, 2024)
 * Sato Yo International Scholarship (Apr 2022 - Mar 2024)
 * Japanese Government (MEXT) Scholarship (Apr 2020 - Mar 2022) 
 * IEICE Kyushu Section Award for Academic Excellence (Japan, 2020)
