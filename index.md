@@ -9,20 +9,15 @@
 Large Language Model, Text generation, Educational Application
 
 # Education
-- Apr 2022 - Mar 2024 &emsp; Master of Engineering, Tokyo Institute of Technology
-  - Major: Artificial Intelligence
-  - Minor: Cyber Security
-- Apr 2020 - Mar 2022 &emsp; Bachelor of Engineering, Tokyo Institute of Technology
-  - Major: Computer Science
-- Apr 2017 - Mar 2020 &emsp; Associate of Engineering, National Institute of Technology, Kagoshima College
-  - Major: Information Engineering
+- Apr 2022 - Mar 2024 &emsp; Master of Engineering in Artificial Intelligence, Tokyo Institute of Technology
+- Apr 2020 - Mar 2022 &emsp; Bachelor of Engineering in Computer Science, Tokyo Institute of Technology
+- Apr 2017 - Mar 2020 &emsp; Associate of Engineering in Information Engineering, National Institute of Technology, Kagoshima College
 
 # Work Experience
-- Dec 2021 - Mar 2024&emsp; Research Assistant, Tokyo Institute of Technology
-- Jan 2023 - Dec 2023&emsp; Chair of IT Committee, Cambodian Students' Association in Japan
-- Nov 2020 - Aug 2023&emsp; Part-time Technical Staff, Novitas, Inc. 
-- Apr 2023 - May 2023&emsp; Internship, Sansan Inc.
-- Oct 2022 - Dec 2022&emsp; Teaching Assistant, Tokyo Institute of Technology
+- Dec 2021 - Mar 2024&emsp; Research Assistant at Tokyo Institute of Technology
+- Jan 2023 - Dec 2023&emsp; Chair of IT Committee at Cambodian Students' Association in Japan
+- Nov 2020 - Aug 2023&emsp; Part-time Technical Staff at Novitas, Inc. 
+- Oct 2022 - Dec 2022&emsp; Teaching Assistant at Tokyo Institute of Technology
   
 # Publications
 
@@ -54,8 +49,8 @@ Large Language Model, Text generation, Educational Application
 * Deep Learning based Natural Language Processing. Invited Talk at Natural Language Processing Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), December 2021. [[slide](https://drive.google.com/file/d/1GX9-XcOJOy-r5hzif5UkmXulaD6GrQk-/view?usp=sharing)]
 
 # Awards and Participations
-* The 30th Annual Meeting of the Association for Natural Language Processing Young Scientist Incentive Award (Japan, 2024)
-* The 30th Annual Meeting of the Association for Natural Language Processing Best Paper Award (Japan, 2024)
+* Young Researcher’s Encouragement Award (Paper: [[1]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-6.pdf)) in The 30th Annual Meeting of the Association for Natural Language Processing  (Japan, 2024)
+* Best Paper Award (Papers: [[1]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A6-1.pdf), [[2]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A8-5.pdf)) in The 30th Annual Meeting of the Association for Natural Language Processing  (Japan, 2024)
 * Sato Yo International Scholarship (Apr 2022 - Mar 2024)
 * Japanese Government (MEXT) Scholarship (Apr 2020 - Mar 2022) 
 * IEICE Kyushu Section Award for Academic Excellence (Japan, 2020)
