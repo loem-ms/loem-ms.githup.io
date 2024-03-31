@@ -1,4 +1,4 @@
-R&D Researcher at Sansan Inc.
+R&D Researcher at Sansan, Inc.
 
   [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/loem-ms)
   [![Twitter](https://img.shields.io/badge/-X-black?style=flat-square&logo=X)](https://twitter.com/loem_ms)
