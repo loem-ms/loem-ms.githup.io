@@ -25,12 +25,12 @@ Large Language Model, Low-resource Languages, Educational Application
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki, ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization, Journal of Natural Language Processing, 2023, Volume 30, Issue 2, Pages 489-506. [[paper](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_489/_article/-char/en)]
 
 ### (Refereed) International Conference and Workshop Papers
+* <u>Mengsay Loem</u>, Masahiro Kaneko, and Naoaki Okazaki. 2024. SAIE Framework: Support Alone Isn’t Enough - Advancing LLM Training with Adversarial Remarks. In Proceedings of the 27th European Conference on Artificial Intelligence (ECAI-2024), pp (to appear), Santiago de Compostela, Spain. [[arXiv](https://arxiv.org/abs/2311.08107)]
 * <u>Mengsay Loem</u>, Masahiro Kaneko, Sho Takase, and Naoaki Okazaki. 2023. Exploring Effectiveness of GPT-3 in Grammatical Error Correction: A Study on Performance and Controllability in Prompt-Based Methods. In Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023), pages 205–219, Toronto, Canada. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.bea-1.18/)]
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop (NAACL:SRW), Seattle, July 2022. [[paper](https://aclanthology.org/2022.naacl-srw.3/)]
 * <u>Mengsay Loem</u>, David Taingngin, Chan Oeurn Chey, Meak Kamerane. A Design of Low Cost and High-Performance Speed Detector Combining Digital Camera and Photo-resistive Sensor to Contribute to Traffic Accidents Reduction in Cambodia. Youth Innovation for Sustainability, SEAMEO Recsam, 2016.
 
 ### Pre-print
-* <u>Mengsay Loem</u>, Masahiro Kaneko, Naoaki Okazaki. SAIE Framework: Support Alone Isn’t Enough - Advancing LLM Training with Adversarial Remarks. arXiv, 2023. [[paper](https://arxiv.org/abs/2311.08107)]
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. arXiv, 2022. [[paper](https://arxiv.org/abs/2207.13354)]
 
 ### Domestic Conference and Symposium (in Japanese)
@@ -44,7 +44,8 @@ Large Language Model, Low-resource Languages, Educational Application
 * <u>Mengsay Loem</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. 抽出型要約と言い換えによる生成型要約の訓練データ拡張. 言語処理学会第28回年次大会 (NLP2022), pp. 1996–2001, 2022年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D8-3.pdf)
 
 # Talks
-* Showcasing Experiences in a Master’s Education in Computer Science. Panel Discussion at TechTalk Throwdown by [Cambodian Student Association in the United States of America](https://www.csainusa.com). January 2024. [[summary]](https://speakerdeck.com/mengsay/showcasing-experiences-in-a-masters-education-in-computer-science)
+* A Journey of Generative Model. Invited Talk at AI Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), July 2024. [[Material](https://loem-ms.github.io/generative-model)]
+* Showcasing Experiences in a Master’s Education in Computer Science. Panel Discussion at TechTalk Throwdown by [Cambodian Student Association in the United States of America](https://www.csainusa.com). January 2024. [[summary](https://speakerdeck.com/mengsay/showcasing-experiences-in-a-masters-education-in-computer-science)]
 * Beyond the Symbols: A 30-minute Overview of NLP. Invited Talk at Technical Seminar by Cambodian MEXT Scholar IT Team. June 2023. [[slide](https://www.slideshare.net/MENGSAYLOEM1/beyond-the-symbols-a-30minute-overview-of-nlp)]
 * Deep Learning based Natural Language Processing. Invited Talk at Natural Language Processing Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), December 2021. [[slide](https://drive.google.com/file/d/1GX9-XcOJOy-r5hzif5UkmXulaD6GrQk-/view?usp=sharing)]
 
