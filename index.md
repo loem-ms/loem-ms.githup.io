@@ -13,6 +13,7 @@ Large Language Model, Low-resource Languages, Educational Application
 - Apr 2017 - Mar 2020 &emsp; Associate of Engineering in Information Engineering, National Institute of Technology, Kagoshima College
 
 # Work Experience
+- Apr 2024 - Present&emsp; Researcher at Sansan, Inc.
 - Aug 2023 - Mar 2024&emsp; Member of [TokyoTech-LLM](https://tokyotech-llm.github.io/)
 - Dec 2021 - Mar 2024&emsp; Research Assistant at Tokyo Institute of Technology
 - Jan 2023 - Dec 2023&emsp; Chair of IT Committee at Cambodian Students' Association in Japan
