@@ -48,8 +48,9 @@ Large Language Model, Low-resource Languages, Educational Application
 * <u>Mengsay Loem</u>, 高瀬 翔, 金子 正弘, 岡崎 直観. 抽出型要約と言い換えによる生成型要約の訓練データ拡張. 言語処理学会第28回年次大会 (NLP2022), pp. 1996–2001, 2022年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D8-3.pdf)
 
 # Talks
-* A Journey of Generative Model. Invited Talk at AI Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), July 2024. [[Material](https://loem-ms.github.io/generative-model)]
-* Showcasing Experiences in a Master’s Education in Computer Science. Panel Discussion at TechTalk Throwdown by [Cambodian Student Association in the United States of America](https://www.csainusa.com). January 2024. [[summary](https://speakerdeck.com/mengsay/showcasing-experiences-in-a-masters-education-in-computer-science)]
+* Enhancing LLMs with Interactive Feedback: Advancing Learning and Reasoning. Tokyo AI - Advanced AI #3, August 2024. [[slide](https://www.slideshare.net/slideshow/enhancingllmswithinteractivefeedback-tai-aai-pdf/270851735)] 
+* A Journey of Generative Model. Invited Talk at AI Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), July 2024. [[note](https://loem-ms.github.io/generative-model)]
+* Showcasing Experiences in a Master’s Education in Computer Science. Panel Discussion at TechTalk Throwdown by [Cambodian Student Association in the United States of America](https://www.csainusa.com). January 2024. [[note](https://speakerdeck.com/mengsay/showcasing-experiences-in-a-masters-education-in-computer-science)]
 * Beyond the Symbols: A 30-minute Overview of NLP. Invited Talk at Technical Seminar by Cambodian MEXT Scholar IT Team. June 2023. [[slide](https://www.slideshare.net/MENGSAYLOEM1/beyond-the-symbols-a-30minute-overview-of-nlp)]
 * Deep Learning based Natural Language Processing. Invited Talk at Natural Language Processing Webinar by [Forum for Pushing the Boundary](https://www.facebook.com/fpbcambodia/), December 2021. [[slide](https://drive.google.com/file/d/1GX9-XcOJOy-r5hzif5UkmXulaD6GrQk-/view?usp=sharing)]
 
