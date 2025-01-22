@@ -26,6 +26,7 @@ Vision/Language Model, Low-resource Languages, Educational Application
 # Publications
 
 ### Journal
+* 大井 聖也, 金子 正弘, 小池 隆斗, <u>Mengsay Loem</u>, and 岡崎 直観. 大規模言語モデルにおける評価バイアスの尤度に基づく緩和. 自然言語処理, 32(2):to appear, July 2025.
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki, ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization, Journal of Natural Language Processing, 2023, Volume 30, Issue 2, Pages 489-506. [[paper](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_489/_article/-char/en)]
 
 ### (Refereed) International Conference and Workshop Papers
@@ -41,6 +42,7 @@ Vision/Language Model, Low-resource Languages, Educational Application
 * <u>Mengsay Loem</u>, Sho Takase, Masahiro Kaneko, Naoaki Okazaki. Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention. arXiv, 2022. [[paper](https://arxiv.org/abs/2207.13354)]
 
 ### Domestic Conference and Symposium (in Japanese)
+* <u>Mengsay Loem</u>, 保坂 大樹. 視覚的質問応答による文書情報抽出における同時多項目推論. 言語処理学会第31回年次大会 (NLP2025), to appear, 2025年3月.
 * <u>Mengsay Loem</u>, 金子 正弘, 岡崎 直観. 敵対的発言を取り入れた議論による言語モデルの学習強化と推論力の向上. 言語処理学会第30回年次大会 (NLP2024), B10-6, pp. 2750–2755, 2024年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-6.pdf)
 * 大井 聖也, 金子 正弘, 小池 隆斗, <u>Mengsay Loem</u>, 岡崎 直観. 大規模言語モデルにおける評価バイアスの尤度に基づく緩和. 言語処理学会第30回年次大会 (NLP2024), A11-4, pp. 3021–3026, 2024年3月.  [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A11-4.pdf)
 * 岡崎 直観, 服部 翔, 平井 翔太, 飯田 大貴, 大井 聖也, 藤井 一喜, 中村 泰士, <u>Mengsay Loem</u>, 横田 理央, 水木 栄. Swallowコーパス: 日本語大規模ウェブコーパス. 言語処理学会第30回年次大会 (NLP2024), A6-1, pp. 1498–1503, 2024年3月. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A6-1.pdf)
